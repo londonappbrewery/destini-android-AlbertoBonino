@@ -52,6 +52,17 @@
         android:textColor="#ecf0f1"
         android:textSize="15sp"/>
 
+    <Button
+        android:id="@+id/endButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/endButtonText"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="#3498db"
+        android:textColor="#ecf0f1"
+        android:textSize="15sp"/>
+
 
 
 </RelativeLayout>
